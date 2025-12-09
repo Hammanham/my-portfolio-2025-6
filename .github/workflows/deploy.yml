@@ -10,7 +10,7 @@ env:
   ECR_REPOSITORY: my-portfolio
   ECS_SERVICE: my-portfolio-2025-td-service-blrid5f2
   ECS_CLUSTER: My-portfolio-2025
-  ECS_TASK_DEFINITION: php_files/ecs/task-definition.json
+  ECS_TASK_DEFINITION: my-portfolio-2025-6/ecs/task-definition.json
 
   CONTAINER_NAME: my-2025-portfolio
 
