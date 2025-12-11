@@ -8,8 +8,8 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: my-portfolio
-  ECS_SERVICE: my-portfolio-2025-td-service-blrid5f2
-  ECS_CLUSTER: My-portfolio-2025
+  ECS_SERVICE: my-portfolio-2025-6-td-service-hvuaksys
+  ECS_CLUSTER: My-portfolio-2025-6
   ECS_TASK_DEFINITION: ecs/task-definition.json
 
   CONTAINER_NAME: my-2025-portfolio
